@@ -2,7 +2,7 @@
   workflow_dispatch:
 # For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
 
-name: jd_pet 东东萌宠
+name: jd_pet 东东萌宠 
 
 on:
   schedule:
